@@ -1,0 +1,20 @@
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\bin\Debug\CAPSLOCK APP.exe.config
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\bin\Debug\CAPSLOCK APP.exe
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\bin\Debug\CAPSLOCK APP.pdb
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.csprojAssemblyReference.cache
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK_APP.Form1.resources
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK_APP.Properties.Resources.resources
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.csproj.GenerateResource.cache
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.csproj.CoreCompileInputs.cache
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.exe
+C:\Users\EmiRoğLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.pdb
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\bin\Debug\CAPSLOCK APP.exe.config
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\bin\Debug\CAPSLOCK APP.exe
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.csprojAssemblyReference.cache
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK_APP.Form1.resources
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK_APP.Properties.Resources.resources
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.csproj.GenerateResource.cache
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.csproj.CoreCompileInputs.cache
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.exe
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\obj\Debug\CAPSLOCK APP.pdb
+C:\Users\EmiRogLu\Documents\Visual Studio 2017\MY PROJECTS\CAPSLOCK APP\CAPSLOCK APP\bin\Debug\CAPSLOCK APP.pdb
